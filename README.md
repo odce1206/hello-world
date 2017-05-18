@@ -4,6 +4,8 @@ Table Template
 |   | ------- | ------------------- | --------- | :--------: | --------- | --------- |
 | # |         |                     | */5       |            |           |           |
 
+- [ ] 
+
 -->
 
 28/04/2017
@@ -26,14 +28,16 @@ Table Template
 | 4   | Abominator   | Evil Proclaimed     | 2015   | Black Metal  | 3.5/5      | Black Mass Warfare       |
 | 5   | Slayer       | Show No Mercy       | 1983   | Thrash Metal | 4/5        | Black Magic              |
 | 6   | Ekpyrosis    | Witness His Dead    | 2015   | Death Metal  | 3/5        | Morticians of God        |
-| 7   | Annihilator  | Alice In Hell       | 1989   | Thrash Metal | 3/5        | Schizos (Are Neve Alone) |
+| 7   | Annihilator  | Alice In Hell       | 1989   | Thrash Metal | 4/5        | Schizos (Are Neve Alone) |
+| 8   | Arch Enemy   | War Eternal         | 2014   | Death Metal  | 3/5        | War Eternal              |
+| 9   | Kreator      | Coma of Souls       | 1990   | Thrash Metal | 4/5        | Craving Flesh            |
 
 
 
 To listen
 ==============
 
-- [ ] Kreator- Coma of Souls
+- [x] Kreator- Coma of Souls
 - [ ] Sarcofago- The Laws of Scourge
 - [ ] Testament - The Legacy
 - [ ] Exodus - Bonded by Blood
@@ -72,19 +76,3 @@ To listen
 - [ ] Kreator - Pleasure to Kill
 - [ ] Opeth - Blackwater Park 
 - [ ] Gojira - From Mars to Sirius
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
