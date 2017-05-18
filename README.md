@@ -28,6 +28,10 @@ Table Template
 | # |         |                     | */5       |            |           |           |
 
 -->
+
+To Listen
+===========
+
 - [ ] Kreator- Coma of Souls
 - [ ] Sarcofago- The Laws of Scourge
 - [ ] Testament - The Legacy
