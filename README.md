@@ -28,15 +28,12 @@ Table Template
 | # |         |                     | */5       |            |           |           |
 
 -->
-To listen
-==============
-
--[ ] Kreator- Coma of Souls
--[ ] Sarcofago- The Laws of Scourge
--[ ] Testament - The Legacy
--[ ] Exodus - Bonded by Blood
--[ ] Evile - Enter The Grave
--[ ] Dark Angel - Darkness Descends
--[ ] Sodom - In the Sign of Evil
--[ ] Morbid Saint - Spectrum of Death
--[ ] Destruction - Infernal Overkill
+- [ ] Kreator- Coma of Souls
+- [ ] Sarcofago- The Laws of Scourge
+- [ ] Testament - The Legacy
+- [ ] Exodus - Bonded by Blood
+- [ ] Evile - Enter The Grave
+- [ ] Dark Angel - Darkness Descends
+- [ ] Sodom - In the Sign of Evil
+- [ ] Morbid Saint - Spectrum of Death
+- [ ] Destruction - Infernal Overkill
