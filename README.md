@@ -21,7 +21,7 @@ Table Template
 ============
 
 |     | Artist       | Album               | Year   | Genre        | Rating     | Fav. Song                |
-| :-: | :-------:    | :-----------------: | :----: | :---------:  | :--------: | : ---------:             |
+| :-: | :-------:    | :-----------------: | :----: | :---------:  | :--------: | :---------:              |
 | 1   | Deicide      | Deicide             | 1990   | Death Metal  | 4/5        | Dead by Dawn             |
 | 2   | Gatecreeper  | Sonoran Depravation | 2016   | Death Metal  | 4.5/5      | Craving Flesh            |
 | 3   | Cruciamentum | Charnel Passages    | 2015   | Death Metal  | 4.5/5      | Collapse                 |
