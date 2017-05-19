@@ -1,8 +1,8 @@
 <!--
 Table Template
-|   | Artist  | Album               | Year      | Genre      | Rating    | Fav. Song |
-|   | ------- | ------------------- | --------- | :--------: | --------- | --------- |
-| # |         |                     | */5       |            |           |           |
+|     | Artist    | Album                 | Year        | Genre      | Rating      | Fav. Song   |
+| :-: | :-------: | :-------------------: | :---------: | :--------: | :---------: | :---------: |
+| #   |           |                       |             |            | */5         |             |
 
 - [ ] 
 
@@ -32,6 +32,16 @@ Table Template
 | 8   | Arch Enemy   | War Eternal         | 2014   | Death Metal  | 3/5        | War Eternal              |
 | 9   | Kreator      | Coma of Souls       | 1990   | Thrash Metal | 4/5        | Craving Flesh            |
 
+
+18/05/2017
+============
+
+|     | Artist       | Album                     | Year        | Genre       | Rating      | Fav. Song            |
+| :-: | :-------:    | :-------------------:     | :---------: | :--------:  | :---------: | :---------:          |
+| 1   | Brujeria     | Pocho Aztlan              | 2016        | Deathgrind  | 2.5/5       | Satongo              |
+| 2   | The Faceless | Autotheism                | 2012        | Death Metal | 4.5/5       | Deconsecrate         |
+| #   | Helloween    | Keeperof the Seven Keys I | 1987        | Power Metal | */5         | Twilight of the Gods |
+| #   |              |                           |             |             | */5         |                      |
 
 
 To listen
