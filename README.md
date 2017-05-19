@@ -21,9 +21,9 @@ Table Template
 ============
 
 |     | Artist       | Album               | Year   | Genre        | Rating     | Fav. Song                |
-| :-: | -------      | -----------------   | :----: | ---------    | :--------: | ---------                |
+| :-: | :-------:    | :-----------------: | :----: | :---------:  | :--------: | : ---------:             |
 | 1   | Deicide      | Deicide             | 1990   | Death Metal  | 4/5        | Dead by Dawn             |
-| 2   | Gatecreeper  | Sonoran Depravation | 2016   | Death Metal  | 4.5/5      | *                        |
+| 2   | Gatecreeper  | Sonoran Depravation | 2016   | Death Metal  | 4.5/5      | Craving Flesh            |
 | 3   | Cruciamentum | Charnel Passages    | 2015   | Death Metal  | 4.5/5      | Collapse                 |
 | 4   | Abominator   | Evil Proclaimed     | 2015   | Black Metal  | 3.5/5      | Black Mass Warfare       |
 | 5   | Slayer       | Show No Mercy       | 1983   | Thrash Metal | 4/5        | Black Magic              |
@@ -36,19 +36,20 @@ Table Template
 18/05/2017
 ============
 
-|     | Artist       | Album                     | Year        | Genre       | Rating      | Fav. Song            |
-| :-: | :-------:    | :-------------------:     | :---------: | :--------:  | :---------: | :---------:          |
-| 1   | Brujeria     | Pocho Aztlan              | 2016        | Deathgrind  | 2.5/5       | Satongo              |
-| 2   | The Faceless | Autotheism                | 2012        | Death Metal | 4.5/5       | Deconsecrate         |
-| 3   | Helloween    | Keeperof the Seven Keys I | 1987        | Power Metal | */5         | Twilight of the Gods |
-| #   |              |                           |             |             | */5         |                      |
+|     | Artist       | Album                      | Year        | Genre       | Rating      | Fav. Song            |
+| :-: | :-------:    | :-------------------:      | :---------: | :--------:  | :---------: | :---------:          |
+| 1   | Brujeria     | Pocho Aztlan               | 2016        | Deathgrind  | 2.5/5       | Satongo              |
+| 2   | The Faceless | Autotheism                 | 2012        | Death Metal | 4.5/5       | Deconsecrate         |
+| 3   | Helloween    | Keeper of the Seven Keys I | 1987        | Power Metal | 3/5         | Twilight of the Gods |
+| 4   | Sarcofago    | The Laws of Scourge        | 1994        | Death Metal | */5         | Crush, Kill, Destroy |
+| #   |              |                            |             |             | */5         |                      |
 
 
 To listen
 ==============
 
 - [x] Kreator- Coma of Souls
-- [ ] Sarcofago- The Laws of Scourge
+- [x] Sarcofago- The Laws of Scourge
 - [ ] Testament - The Legacy
 - [ ] Exodus - Bonded by Blood
 - [ ] Evile - Enter The Grave
