@@ -21,7 +21,7 @@ Table Template
 ============
 
 |     | Artist       | Album               | Year   | Genre        | Rating     | Fav. Song                |
-| :-: | :-------:    | :-----------------: | :----: | :---------:  | :--------: | :---------:              |
+| :-: | -------      | -----------------   | :----: | ---------    | :--------: | ---------                |
 | 1   | Deicide      | Deicide             | 1990   | Death Metal  | 4/5        | Dead by Dawn             |
 | 2   | Gatecreeper  | Sonoran Depravation | 2016   | Death Metal  | 4.5/5      | *                        |
 | 3   | Cruciamentum | Charnel Passages    | 2015   | Death Metal  | 4.5/5      | Collapse                 |
@@ -40,7 +40,7 @@ Table Template
 | :-: | :-------:    | :-------------------:     | :---------: | :--------:  | :---------: | :---------:          |
 | 1   | Brujeria     | Pocho Aztlan              | 2016        | Deathgrind  | 2.5/5       | Satongo              |
 | 2   | The Faceless | Autotheism                | 2012        | Death Metal | 4.5/5       | Deconsecrate         |
-| #   | Helloween    | Keeperof the Seven Keys I | 1987        | Power Metal | */5         | Twilight of the Gods |
+| 3   | Helloween    | Keeperof the Seven Keys I | 1987        | Power Metal | */5         | Twilight of the Gods |
 | #   |              |                           |             |             | */5         |                      |
 
 
