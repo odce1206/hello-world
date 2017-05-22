@@ -41,9 +41,18 @@ Table Template
 | 1   | Brujeria     | Pocho Aztlan               | 2016        | Deathgrind  | 2.5/5       | Satongo              |
 | 2   | The Faceless | Autotheism                 | 2012        | Death Metal | 4.5/5       | Deconsecrate         |
 | 3   | Helloween    | Keeper of the Seven Keys I | 1987        | Power Metal | 3/5         | Twilight of the Gods |
-| 4   | Sarcofago    | The Laws of Scourge        | 1994        | Death Metal | */5         | Crush, Kill, Destroy |
-| #   |              |                            |             |             | */5         |                      |
+| 4   | Sarcofago    | The Laws of Scourge        | 1994        | Death Metal | 3/5         | Crush, Kill, Destroy |
 
+22/05/2017
+============
+
+|     | Artist        | Album                   | Year        | Genre       | Rating      | Fav. Song      |
+| :-: | :-------:     | :-------------------:   | :---------: | :--------:  | :---------: | :---------:    |
+| 1   | Down          | NOLA                    | 1995        | Stoner Rock | 4.5/5       | Stone the Crow |
+| 2   | High on Fire  | Death Is This Communion | 2007        | Stoner Rock | 3.5/5       | Return to NOD  |
+| 3   | The Sword     | Age of Winters          | 2006        | Stoner Rock | 4/5         | Winter Wolves  |
+| 4   | Kyuss         | Welcome to Sky Valley   | 1994        | Stoner Rock | 4/5         | Asteroid       |
+| 5   | Nekrogoblikon | Stench                  | 2011        | Death Metal | 4/5         | A Feast        |
 
 To listen
 ==============
