@@ -43,6 +43,7 @@ Table Template
 | 3   | Helloween    | Keeper of the Seven Keys I | 1987        | Power Metal | 3/5         | Twilight of the Gods |
 | 4   | Sarcofago    | The Laws of Scourge        | 1994        | Death Metal | 3/5         | Crush, Kill, Destroy |
 
+
 22/05/2017
 ============
 
@@ -53,6 +54,31 @@ Table Template
 | 3   | The Sword     | Age of Winters          | 2006        | Stoner Rock | 4/5         | Winter Wolves  |
 | 4   | Kyuss         | Welcome to Sky Valley   | 1994        | Stoner Rock | 4/5         | Asteroid       |
 | 5   | Nekrogoblikon | Stench                  | 2011        | Death Metal | 4/5         | A Feast        |
+
+
+22/05/2017
+============
+
+|     | Artist        | Album                 | Year        | Genre        | Rating      | Fav. Song               |
+| :-: | :-------:     | :-------------------: | :---------: | :--------:   | :---------: | :---------:             |
+| 1   | Mgla          | Exercises in Futility | 2015        | Black Metal  | 5/5         | EIF V                   |
+| 2   | Worsen        | Blood                 | 2014        | Black Metal  | 4/5         | Blood                   |
+| 3   | Barshasketh   | Ophidian Henosis      | 2015        | Black Metal  | 3.5/5       | OH I                    |
+| 4   | Human Serpent | Inhumane Minimalism   | 2015        | Black Metal  | 4.5/5       | Mother of Depression    |
+| 5   | Metallica     | Kill Em All           | 1983        | Thrash Metal | 4.5/5       | Wiplash / Four Horsemen |
+| 6   | Myrkur        | M                     | 2015        | Black Metal  | 3/5         | Onde Born               |
+
+
+22/05/2017
+============
+
+|     | Artist    | Album                 | Year        | Genre      | Rating      | Fav. Song   |
+| :-: | :-------: | :-------------------: | :---------: | :--------: | :---------: | :---------: |
+| 1   | Shishamo  | Shishamo 2            | 2015        | J-Pop      | */5         |             |
+| #   |           |                       |             |            | */5         |             |
+
+
+
 
 To listen
 ==============
@@ -96,3 +122,5 @@ To listen
 - [ ] Kreator - Pleasure to Kill
 - [ ] Opeth - Blackwater Park 
 - [ ] Gojira - From Mars to Sirius
+- [ ] Dodecahedron - Dodecahedron
+- [ ] Cult Of Fire - मृत्यु का तापसी अनुध्यान 
