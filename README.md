@@ -72,10 +72,10 @@ Table Template
 22/05/2017
 ============
 
-|     | Artist    | Album                 | Year        | Genre      | Rating      | Fav. Song   |
-| :-: | :-------: | :-------------------: | :---------: | :--------: | :---------: | :---------: |
-| 1   | Shishamo  | Shishamo 2            | 2015        | J-Pop      | */5         |             |
-| #   |           |                       |             |            | */5         |             |
+|     | Artist    | Album                 | Year        | Genre      | Rating      | Fav. Song         |
+| :-: | :-------: | :-------------------: | :---------: | :--------: | :---------: | :---------:       |
+| 1   | Shishamo  | Shishamo 2            | 2015        | J-Pop      | */5         | Kimi To Natsu Fes |
+| #   |           |                       |             |            | */5         |                   |
 
 
 
