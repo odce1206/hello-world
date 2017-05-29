@@ -75,8 +75,16 @@ Table Template
 |     | Artist    | Album                 | Year        | Genre      | Rating      | Fav. Song         |
 | :-: | :-------: | :-------------------: | :---------: | :--------: | :---------: | :---------:       |
 | 1   | Shishamo  | Shishamo 2            | 2015        | J-Pop      | */5         | Kimi To Natsu Fes |
-| #   |           |                       |             |            | */5         |                   |
 
+
+26/05/2017
+============
+
+|     | Artist    | Album                         | Year        | Genre      | Rating      | Fav. Song       |
+| :-: | :-------: | :-------------------:         | :---------: | :--------: | :---------: | :---------:     |
+| 1   | Skrillex  | Scary Monsters & Nice Sprites | 2010        | Electronic | 4.5/5       | Rock N Roll     |
+| 2   | Skrillex  | The Leaving EP                | 2013        | Electronic | */5         | Scary Bolly Dub |
+| #   |           |                               |             |            | */5         |                 |
 
 
 
