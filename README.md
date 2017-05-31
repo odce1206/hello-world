@@ -84,9 +84,32 @@ Table Template
 | :-: | :-------: | :-------------------:         | :---------: | :--------: | :---------: | :---------:     |
 | 1   | Skrillex  | Scary Monsters & Nice Sprites | 2010        | Electronic | 4.5/5       | Rock N Roll     |
 | 2   | Skrillex  | The Leaving EP                | 2013        | Electronic | */5         | Scary Bolly Dub |
-| #   |           |                               |             |            | */5         |                 |
 
 
+29/05/2017
+============
+
+|     | Artist    | Album                              | Year    | Genre       | Rating   | Fav. Song   |
+| :-: | :-------: | :-------------------:              | :-----: | :--------:  | :------: | :---------: |
+| 1   | Goatwhore | Constricting Rage of the Merciless | 2014    | Death Metal | */5      |             |
+
+
+30/05/2017
+============
+
+|     | Artist      | Album                 | Year    | Genre       | Rating   | Fav. Song               |
+| :-: | :-------:   | :-------------------: | :-----: | :--------:  | :------: | :---------:             |
+| 1   | Misfits     | Famous Monsters       | 1999    | Horror Punk | 4/5      | Scream / Saturday Night |
+| 2   | Mon Laferte | La Trenza             | 2017    | Alternative | 4/5      | Flaco                   |
+| 3   | Mon Laferte | Tornasol              | 2013    | Alternative | */5      | Orgasmo para dos        |
+
+
+30/05/2017
+============
+
+|     | Artist        | Album                 | Year        | Genre      | Rating      | Fav. Song   |
+| :-: | :-------:     | :-------------------: | :---------: | :--------: | :---------: | :---------: |
+| 1   | Disasterpiece | It Follows            | 2015        | Soundtrack | */5         |             |
 
 To listen
 ==============
