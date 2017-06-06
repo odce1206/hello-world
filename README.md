@@ -91,7 +91,7 @@ Table Template
 
 |     | Artist    | Album                              | Year    | Genre       | Rating   | Fav. Song   |
 | :-: | :-------: | :-------------------:              | :-----: | :--------:  | :------: | :---------: |
-| 1   | Goatwhore | Constricting Rage of the Merciless | 2014    | Death Metal | */5      |             |
+| 1   | Goatwhore | Constricting Rage of the Merciless | 2014    | Death Metal | 3/5      |             |
 
 
 30/05/2017
@@ -101,7 +101,7 @@ Table Template
 | :-: | :-------:   | :-------------------: | :-----: | :--------:  | :------: | :---------:             |
 | 1   | Misfits     | Famous Monsters       | 1999    | Horror Punk | 4/5      | Scream / Saturday Night |
 | 2   | Mon Laferte | La Trenza             | 2017    | Alternative | 4/5      | Flaco                   |
-| 3   | Mon Laferte | Tornasol              | 2013    | Alternative | */5      | Orgasmo para dos        |
+| 3   | Mon Laferte | Tornasol              | 2013    | Alternative | 3.5/5    | Orgasmo para dos        |
 
 
 30/05/2017
@@ -109,14 +109,27 @@ Table Template
 
 |     | Artist        | Album                 | Year        | Genre      | Rating      | Fav. Song   |
 | :-: | :-------:     | :-------------------: | :---------: | :--------: | :---------: | :---------: |
-| 1   | Disasterpiece | It Follows            | 2015        | Soundtrack | */5         |             |
+| 1   | Disasterpiece | It Follows            | 2015        | Soundtrack | 4/5         | Detrioit    |
+
+
+06/06/2017
+============
+
+|     | Artist    | Album                    | Year        | Genre        | Rating      | Fav. Song   |
+| :-: | :-------: | :-------------------:    | :---------: | :--------:   | :---------: | :---------: |
+| 1   | Testament | The Legacy               | 1987        | Thrash Metal | 3.5/5       | ++++++++++  |
+| 2   | Mgla      | Exercises in Futility    | 2015        | Black Metal  | 5/5         | EIF V       |
+| 3   | Mgla      | With Hearts Towards None | 2012        | Black Metal  | */5         |             |
+| #   |           |                          |             |              | */5         |             |
+
+
 
 To listen
 ==============
 
 - [x] Kreator- Coma of Souls
 - [x] Sarcofago- The Laws of Scourge
-- [ ] Testament - The Legacy
+- [x] Testament - The Legacy
 - [ ] Exodus - Bonded by Blood
 - [ ] Evile - Enter The Grave
 - [ ] Dark Angel - Darkness Descends
